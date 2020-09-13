@@ -35,7 +35,9 @@
 
 <a href="https://sourcerer.io/pratyushkes"><img src="https://img.shields.io/badge/HTML-52%20commits-green.svg?style=for-the-badge" alt=""></a>
 
-<a href="https://sourcerer.io/pratyushkes"><img src="https://img.shields.io/badge/CSS-41%20commits-purple.svg?style=for-the-badge" alt=""></a>
+<a href="https://sourcerer.io/pratyushkes"><img src="https://img.shields.io/badge/HTML-1%20commits-green.svg?style=for-the-badge" alt=""></a>
+
+<a href="https://sourcerer.io/pratyushkes"><img src="https://img.shields.io/badge/Kotlin-41%20commits-purple.svg?style=for-the-badge" alt=""></a>
 <hr>
 <p align="center">
   <i>Wanna connect with me</i>
