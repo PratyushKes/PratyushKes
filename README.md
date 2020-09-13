@@ -40,8 +40,7 @@
   <i>Wanna connect with me</i>
 
   <p align="center">
-    <a href="https://twitter.com/grep_akash" alt="Twitter"><img width="28px" src="https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png"></a>
-    <a href="https://www.linkedin.com/in/grep-akash/" alt="Linkedin"><img width="28px" src="https://i7.pngguru.com/preview/668/576/941/social-media-linkedin-computer-icons-facebook-inc-social-networking-service-social-media.jpg"></a>
-    <a href="mailto:akash.grep@gmail.com" alt="Contact me"><img width="28px" src="https://img.pngio.com/mail-icon-with-png-and-vector-format-for-free-unlimited-download-mail-png-512_512.png"></a>
+    <a href="https://www.linkedin.com/in/pratyush-kesarwani/" alt="Linkedin"><img width="28px" src="https://i7.pngguru.com/preview/668/576/941/social-media-linkedin-computer-icons-facebook-inc-social-networking-service-social-media.jpg"></a>
+    <a href="mailto:pratyushkesarwani7@gmail.com" alt="Contact me"><img width="28px" src="https://img.pngio.com/mail-icon-with-png-and-vector-format-for-free-unlimited-download-mail-png-512_512.png"></a>
     
   </p>
