@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with any open source projects
 - 💬 Ask me about anything on <a href="https://www.linkedin.com/in/pratyush-kesarwani/">Linkedin</a>
-- 📫 How to reach me: mail me at pratyushkesarwani7@gmail.com
+- 📫 How to reach: mail me at pratyushkesarwani7@gmail.com
 - 😄 Pronouns: Mr/Master
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushKes&hide=stars&show_icons=true&theme=merko)](https://github.com/PratyushKes/github-readme-stats)
