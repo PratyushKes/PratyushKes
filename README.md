@@ -8,7 +8,7 @@
 - 📫 How to reach me: mail me at pratyushkesarwani7@gmail.com
 - 😄 Pronouns: Mr/Master
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=akrishna0&hide=stars&show_icons=true&theme=merko)](https://github.com/PratyushKes/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PratyushKes&hide=stars&show_icons=true&theme=merko)](https://github.com/PratyushKes/github-readme-stats)
 
 ### Languages and Tools:
 
